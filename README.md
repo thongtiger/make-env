@@ -1,2 +1,4 @@
-command line
+### command line
+```bash
 $ make all
+```
